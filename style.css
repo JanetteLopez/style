@@ -1,0 +1,29 @@
+   body {
+       margin:auto;
+       padding:auto;
+       background-color: blueviolet;
+   }
+
+   .head {
+       margin:2%;
+       padding:2%;
+       background-color: green;
+       color: black;
+       font-size: 5em;
+   }
+
+   #items {
+       margin:2%;
+       padding:2%;
+       background-color: green;
+       color: black;
+   }
+
+   ul{
+       list-style-type: none;
+     }
+
+.cols {
+    column-count:3;
+    background-color: gold;
+}
